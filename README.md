@@ -1,9 +1,3 @@
-### Chatterbox Application: Simple System Design Document
-
-**I am Greeshraj Patairiya, a 4th-year undergraduate student at the Indian Institute of Technology Kharagpur, with the roll number 21HS23010.**
-
----
-
 #### **1. Overview**
 
 **Chatterbox** is a messaging app where users can chat with friends, either one-on-one or in groups. It also has an AI tool that responds to messages starting with `@bot`. The app supports text messages and video calls.
